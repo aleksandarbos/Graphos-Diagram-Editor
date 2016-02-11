@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/graphos/abs/actions/BtnSave.java=UTF-8
+encoding//src/graphos/gui/workspace/DiagramGUI.java=UTF-8
+encoding//src/graphos/model/DiagramSelectionModel.java=UTF-8
+encoding//src/graphos/state/ResizeState.java=UTF-8
+encoding//src/graphos/state/SelectState.java=UTF-8
